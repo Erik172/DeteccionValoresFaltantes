@@ -3,7 +3,11 @@ missingno
 numpy
 matplotlib
 pandas
+pandas-flavor
+pandas-profiling
 pyreadr
 seaborn
 session-info
 upsetplot
+nhanes
+scipy
